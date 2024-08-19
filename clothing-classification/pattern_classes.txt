@@ -1,0 +1,5 @@
+check
+dot
+stripe
+plants
+etc

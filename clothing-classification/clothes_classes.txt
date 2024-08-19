@@ -1,0 +1,13 @@
+blouse
+cardigan
+coat
+jacket
+jumper
+shirt
+sweater
+t-shirt
+vest
+pants
+skirt
+dress
+jumpsuite
